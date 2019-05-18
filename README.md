@@ -24,4 +24,4 @@ Show the top 6 Computer Science programs admission criteria and bias, provide de
 ## How To
   - Open terminal and navigate to the file folder
   - Run ```python -m http.server port#```
-  - Open browser and type ```localhost:port#```
+  - Open browser and type ```localhost:port#/index.html```
